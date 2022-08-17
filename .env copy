@@ -1,0 +1,2 @@
+MONGODB_URL =mongodb+srv://mongodb_user:mongodb_password@mongodbapp.nbhkqis.mongodb.net/test?retryWrites=true;
+JWT_TOKEN_KEY = secret123fogdfjg;

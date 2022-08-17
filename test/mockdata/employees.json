@@ -1,0 +1,16 @@
+[
+    {
+        "_id": "5eaa961cb4b1f924fae646ae",
+        "name": "st",
+        "email": "steph@gmail.com",
+        "create_date": "2020-04-30T09:10:52.734Z",
+        "__v": 0
+    },
+    {
+        "_id": "5eaa963db4b1f924fae646b0",
+        "name": "sa",
+        "email": "sandra@gmail.com",
+        "create_date": "2020-04-30T09:11:25.232Z",
+        "__v": 0
+    }
+]
